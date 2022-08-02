@@ -6,3 +6,5 @@ dog_age = 3
 cat_age = 1
 height = 162.56
 current_income = 0.000
+have_dog = true
+have_cat = true
