@@ -1,6 +1,6 @@
-name = "Emily P."
-dog_name = "Louie the lab"
-cat_name = "Zoe"
+name = "Emily Port"
+dog_name = "Louie"
+cat_name = "Addie"
 my_age = 30
 dog_age = 3
 cat_age = 1
